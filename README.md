@@ -1,2 +1,2 @@
 # Non-linear-Optimization
-For some of the projects that I've done during the Optimization course in my Data Science Master. I've used the book "Nonlinear Optimization" written by my teacher Francisco J. Aragón Artacho.
+For this project, I have used the book "Nonlinear Optimization" by my teacher Francisco J. Aragón Artacho.
